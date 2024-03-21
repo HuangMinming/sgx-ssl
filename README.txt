@@ -1,4 +1,4 @@
-以Intelk SGX SampleEnclave 项目为基础，增加sgxssl，可以在enclave内调用sgxssl所支持的函数，支持C/C++
+以Intel SGX SampleEnclave 项目为基础，增加sgxssl，可以在enclave内调用sgxssl所支持的函数，支持C/C++
 ------------------------
 Purpose of SampleEnclave
 ------------------------
